@@ -6,7 +6,7 @@ const Display = () => {
 
 
       <div className='h-[450px]'>
-        <lottie-player src="https://assets7.lottiefiles.com/packages/lf20_kvwtrk4n.json" background="transparent" speed="1" loop autoplay></lottie-player>
+        <lottie-player src="https://assets5.lottiefiles.com/packages/lf20_ybo2yaki.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop controls autoplay></lottie-player>
       </div>
 
       <div className='md:text-center sm:text-center'>
